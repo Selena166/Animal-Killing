@@ -1,6 +1,6 @@
 <div id="header" align="center">
 <!-- PROJECT LOGO -->
-   <img src="./Animal Killing_Slide And Report/logo.png" alt="Logo" width="200" height="200">
+   <img src="./Animal Killing - Report Project/logo.png" alt="Logo" width="200" height="200">
 </div>
 </br>
 
